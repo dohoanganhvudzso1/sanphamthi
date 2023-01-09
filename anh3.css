@@ -1,0 +1,177 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.total2 {
+    border: 1px solid;
+   
+    display: flex;
+    height: 720px;
+    width: 100%;
+    justify-content: space-around;
+    color:green;
+    background-image: url("./img/backgroundtet4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+   
+}
+
+.story5 {
+    height: 200px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.story5 h1 {
+    text-align: center;
+}
+
+.the5v3 img {
+    height: 180px;
+    width: 150px;
+
+}
+
+.the5v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story5 button {
+    color:red;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 20px;
+}
+
+.story5 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story6 {
+    height: 200px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.story6 h1 {
+    text-align: center;
+}
+
+.the6v3 img {
+    height: 180px;
+    width: 150px;
+}
+
+.the6v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story6 button {
+    color: red;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+
+}
+
+.story6 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story7 {
+    height: 200px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.story7 h1 {
+    text-align: center;
+}
+
+.the7v3 img {
+    height: 180px;
+    width: 150px;
+}
+
+.the7v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story7 button {
+    color:red;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+
+}
+
+.story7 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story8 {
+    height: 200px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.story8 h1 {
+    text-align: center;
+}
+
+.the8v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the8v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story8 button {
+    color:red;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 20px;
+}
+
+.story8 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}

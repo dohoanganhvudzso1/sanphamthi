@@ -1,0 +1,571 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    background-color: red;
+    color: white;
+    height: 170px;
+}
+
+
+
+.box11 button{
+    background-color:red;
+    color: yellow;
+    height: 50px;
+    width: 100px;
+    border-radius:10px ;
+    transition: 1s;
+    border: solid 2px;
+    cursor: pointer;
+  
+}
+.box11 button:hover {
+    background-color:black;
+    color:white;
+    transition: 1s;
+    border: solid 2px;
+    width: 150px;
+ }
+.nhap {
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.ki {
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.box11 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box2 {
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    width: 100%;
+}
+
+.box2 button {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    transition: 1s;
+    border: solid 2px;
+}
+
+
+.box2 button:hover {
+    background-color:darkorange ;
+    color:white;
+    width: 200px;
+    transition: 1s;
+    border: solid 2px;
+
+}
+
+
+.total1 {
+  
+    border: 1px solid;
+   background-color: red;
+    display: flex;
+    height: 500px;
+    width: 100%;
+    justify-content: space-around;
+    color:yellow;
+}
+
+.story1 {
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+
+}
+
+.story1 h1 {
+    text-align: center;
+}
+
+.story1 button {
+    margin-top: 50px;
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+}
+
+.story1 button:hover {
+    background-color:aliceblue;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.the1v3 img {
+    height: 160px;
+    width: 130px;
+}
+
+.the1v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story2 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story2 h1 {
+    text-align: center;
+}
+
+.story2 button {
+    color:yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 10px;
+}
+
+.story2 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.the2v3 img {
+    height: 160px;
+    width: 150px;
+}
+
+.the2v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story3 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story3 h1 {
+    text-align: center;
+}
+
+.story3 button {
+    margin-top: 45px;
+    color:yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+}
+
+.story3 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.the3v3 img {
+    height: 160px;
+    width: 150px;
+}
+
+.the3v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story4 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story4 h1 {
+    text-align: center;
+}
+
+.story4 button {
+    margin-top: 45px;
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+}
+
+.story4 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.the4v3 img {
+    height: 160px;
+    width: 150px;
+
+}
+
+.the4v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.total2 {
+    border: 1px solid;
+   background-color: red;
+    display: flex;
+    height: 500px;
+    width: 100%;
+    justify-content: space-around;
+    color:yellow;
+}
+
+.story5 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story5 h1 {
+    text-align: center;
+}
+
+.the5v3 img {
+    height: 180px;
+    width: 150px;
+
+}
+
+.the5v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story5 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 20px;
+}
+
+.story5 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story6 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story6 h1 {
+    text-align: center;
+}
+
+.the6v3 img {
+    height: 180px;
+    width: 150px;
+}
+
+.the6v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story6 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+
+}
+
+.story6 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story7 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story7 h1 {
+    text-align: center;
+}
+
+.the7v3 img {
+    height: 180px;
+    width: 150px;
+}
+
+.the7v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story7 button {
+    color:yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+
+}
+
+.story7 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story8 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story8 h1 {
+    text-align: center;
+}
+
+.the8v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the8v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story8 button {
+    color:yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 20px;
+}
+
+.story8 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.total3 {
+
+    border: 1px solid;
+    background-color:red;
+     display: flex;
+     height: 500px;
+     width: 100%;
+     justify-content: space-around;
+     color:yellow;
+}
+
+.story9 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.the9v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the9v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story9 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+}
+
+.story9 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story10 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story10 h1 {
+    text-align: center;
+}
+
+.the10v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the10v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story10 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+
+}
+
+.story10 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story11 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story11 h1 {
+    text-align: center;
+}
+
+.the11v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the11v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story11 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 17px;
+}
+
+.story11 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.story12 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.story12 h1 {
+    text-align: center;
+}
+
+.the12v3 img {
+    height: 180px;
+    width: 160px;
+}
+
+.the12v1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story12 button {
+    color: yellow;
+    background-color: transparent;
+    border: solid 2px;
+    width: 100px;
+    transition: 2s;
+    margin-top: 20px;
+}
+
+.story12 button:hover {
+    background-color:white;
+    color: black ;
+    width: 200px;
+    transition: 3s;
+    border: solid 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
